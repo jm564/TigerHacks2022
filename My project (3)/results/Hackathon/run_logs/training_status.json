@@ -1,0 +1,29 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 7856,
+                "file_path": "results/Hackathon/My Behavior/My Behavior-7856.onnx",
+                "reward": -58.13157901011015,
+                "creation_time": 1667732085.0717309,
+                "auxillary_file_paths": [
+                    "results/Hackathon/My Behavior/My Behavior-7856.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 7856,
+            "file_path": "results/Hackathon/My Behavior.onnx",
+            "reward": -58.13157901011015,
+            "creation_time": 1667732085.0717309,
+            "auxillary_file_paths": [
+                "results/Hackathon/My Behavior/My Behavior-7856.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "1.8.1"
+    }
+}
